@@ -41,8 +41,6 @@ I made the AI sound **friendly and encouraging**, like a personal tutor. This ma
 
 - Submitted by: **Kopal Khare**  
 - University: **VIT Bhopal**  
-- GitHub Repo: [Add your GitHub link after pushing]
+- GitHub Repo: https://github.com/kopalkhare2/fossee-task2-debugging
 
 ---
-
-**Note:** This prompt was written by me personally and reflects how I would like to learn debugging. It is **100% authentic**.
